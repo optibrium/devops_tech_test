@@ -2,7 +2,7 @@
 
 ### Overview
 
-A large part of Development Operations at Optibirum is actively developing, and supporting the development of, Python web-services.
+A large part of Development Operations at Optibrium is actively developing, and supporting the development of, Python web-services.
 
 Your solution to this problem will form the basis for the technical discussion at interview.
 
